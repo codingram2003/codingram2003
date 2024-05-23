@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### This is the official home of Codingram2003 AKA Shriram SR irl. 
-##### Feel free to look around and if you have any doubts, don't be afraid to reach out ot me!
+##### Feel free to look around and if you have any doubts, don't be afraid to reach out !
 
 
 - 🎓 Currently persuing B.Tech in UVCE, Bangalore
