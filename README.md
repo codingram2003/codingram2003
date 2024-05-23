@@ -37,6 +37,16 @@
 ![Git](https://img.shields.io/badge/-bash-000000?style=for-the-badge&logo=gnubash)
 ![Git](https://img.shields.io/badge/-framer-000000?style=for-the-badge&logo=framer)
 ![Git](https://img.shields.io/badge/-codesandbox-000000?style=for-the-badge&logo=codesandbox)
+![Git](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
+
+
+
+
+<br /><br />
+
+## Cloud Services Familier With: 
+![MongoDB](https://img.shields.io/badge/-amazonaws-000000?style=for-the-badge&logo=amazonaws)
+<img src="https://img.shields.io/badge/-googlecloud-000000?style=for-the-badge&logo=googlecloud"/>  <img src="https://img.shields.io/badge/-supabase-000000?style=for-the-badge&logo=supabase"/>
 
 <br /><br />
 
