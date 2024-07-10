@@ -6,6 +6,9 @@
 - 🎓 Currently persuing B.Tech in UVCE, Bangalore
 - 🚀 Have built projects using MERN stack, python etc.
 
+## [Check out the portfolio here!](https://portfolio-shriram-srs-projects.vercel.app/)
+
+
 ## Languages known
 
 - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
